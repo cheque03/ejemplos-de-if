@@ -4,7 +4,7 @@
 	<title>Nombre de numeros</title>
 </head>
 <body>
-<h1>Imptimir el nombre de un numero.</h1>
+<h1>Imprimir el nombre de un numero menor o igual a 3.</h1>
 
 <script type="text/javascript">
 	var numero = parseInt((Math.random()*4) + 1);
